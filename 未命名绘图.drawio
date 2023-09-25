@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T08:40:57.613Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" version="21.8.2" etag="KOmZdqprpAqoJoSkrCu6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T09:02:08.135Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="aGxClzYeImytCO4hTCt_" version="21.8.2" type="github">
   <diagram name="第 1 页" id="EVRozF3wn3IlWUY5H9-2">
-    <mxGraphModel>
+    <mxGraphModel dx="698" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b9EZtr3-VFl7UaCiDW2-1" target="9b9EZtr3-VFl7UaCiDW2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-1" value="购书计划" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b9EZtr3-VFl7UaCiDW2-3" target="9b9EZtr3-VFl7UaCiDW2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-3" value="教师申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b9EZtr3-VFl7UaCiDW2-4" target="9b9EZtr3-VFl7UaCiDW2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-4" value="教师购书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b9EZtr3-VFl7UaCiDW2-5" target="9b9EZtr3-VFl7UaCiDW2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9b9EZtr3-VFl7UaCiDW2-8">
+          <mxGeometry x="0.02" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b9EZtr3-VFl7UaCiDW2-5" target="9b9EZtr3-VFl7UaCiDW2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-5" value="&lt;div&gt;审查是&lt;/div&gt;&lt;div&gt;否通过？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-7" value="审查未通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b9EZtr3-VFl7UaCiDW2-16" value="审查通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
